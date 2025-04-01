@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaac Rands, @irands0220
-- 👀 I’m interested in a data science internship
+- 👀 I’m interested in an actuarial science internship
 - 🌱 I’m currently learning python, SQL, and R 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me @isaac.rands02@gmail.com
